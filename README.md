@@ -18,3 +18,11 @@ We do this by considering the actors as nodes or vertices in a graph and edges a
 --- Knights - an AI that will make inferences based on the knowledge it has acquired throughout.
 
 --- Minesweeper - an AI that uses the pygame feature to enable a typical minesweeper game. The AI helps the user guess the next move. 
+
+- Week 2 :
+
+-- Uncertainity
+
+--- PageRank - an AI to rank webpages based on their importance by using probability (Used in Search Engine Optimization)
+
+--- Heredity - an AI to assess the likelihood that a person will have a particular genetic trait.
