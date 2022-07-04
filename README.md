@@ -32,3 +32,11 @@ We do this by considering the actors as nodes or vertices in a graph and edges a
 - Optimization
 
 -- Crossword - an AI that generates crossword puzzles
+
+# Week 4 :
+
+- Learning
+
+-- Shopping - an AI to predict whether online shopping customers will complete a purchase
+
+-- Nim - an AI that teaches itself to play the game 'Nim' through reinforcement learning
