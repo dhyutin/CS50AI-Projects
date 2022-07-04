@@ -40,3 +40,9 @@ We do this by considering the actors as nodes or vertices in a graph and edges a
 -- Shopping - an AI to predict whether online shopping customers will complete a purchase
 
 -- Nim - an AI that teaches itself to play the game 'Nim' through reinforcement learning
+
+# Week 5 :
+
+- Neural Networks
+
+-- Traffic - an AI to identify which traffic sign appears in a photograph using Convolutional Neural Networks
