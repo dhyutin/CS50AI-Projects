@@ -46,3 +46,11 @@ We do this by considering the actors as nodes or vertices in a graph and edges a
 - Neural Networks
 
 -- Traffic - an AI to identify which traffic sign appears in a photograph using Convolutional Neural Networks
+
+# Week 6 :
+
+- Language
+
+-- Parser : an AI that parses sentences and extracts Noun Phrases
+
+-- Questions - an AI that answers simple questions based on a given dataset
