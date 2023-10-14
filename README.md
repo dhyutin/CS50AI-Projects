@@ -1,6 +1,6 @@
 # CS50AI-Projects
 
-Please find my solutions for the CS50's Introduction to Artificial Intelligence with Python Course in this repo.
+Please find my solutions for the CS50's Introduction to Artificial Intelligence with Python Course in this repository
 
 # Week 0 : 
 
